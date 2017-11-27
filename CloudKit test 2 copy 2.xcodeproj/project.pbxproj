@@ -123,7 +123,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F52C3C671FBCC79B00455DDD /* Build configuration list for PBXProject "CloudKit test 2" */;
+			buildConfigurationList = F52C3C671FBCC79B00455DDD /* Build configuration list for PBXProject "CloudKit test 2 copy" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -310,7 +310,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F52C3C671FBCC79B00455DDD /* Build configuration list for PBXProject "CloudKit test 2" */ = {
+		F52C3C671FBCC79B00455DDD /* Build configuration list for PBXProject "CloudKit test 2 copy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F52C3C7C1FBCC79B00455DDD /* Debug */,
